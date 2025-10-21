@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "HOME",
+    "portfolio": "PORTFOLIO",
+    "journey": "JOURNEY",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "greeting": "Hello, I'm",
+    "name": "Mohammed",
+    "profession": "Front-End Developer",
+    "description": "I create modern, responsive websites using Vue.js and React. Passionate about clean code and beautiful user experiences.",
+    "technologies": "Technologies I Work With",
+    "education": "Education & Certificates",
+    "university": "University",
+    "universityName": "Osh State University",
+    "degree": "Bachelor's Degree in Software Engineering",
+    "geeks": "Geeks Academy",
+    "geeksDesc": "Frontend Developer",
+    "certificates": "Certificates",
+    "skillfactory": "SKILLFACTORY",
+    "skillDesc": "Python Developer",
+    "certificate": "Certificate",
+    "languages": "Languages I Speak",
+    "russian": "Russian",
+    "english": "English",
+    "kyrgyz": "Kyrgyz"
+  },
+  "portfolio": {
+    "title": "My Portfolio",
+    "subtitle": "Explore my web development projects and applications",
+    "all": "All",
+    "webApps": "Web Apps",
+    "react": "React",
+    "vue": "Vue",
+    "python": "Python",
+    "viewDetails": "View Details",
+    "technologies": "Technologies Used:",
+    "github": "GitHub",
+    "liveDemo": "Live Demo",
+    "projects": {
+      "ecommerce": {
+        "title": "E-Commerce Platform",
+        "short": "Full-stack online store with shopping cart",
+        "full": "A complete e-commerce platform built with Vue.js and Django. Features include product catalog, shopping cart, user authentication, order management, and payment integration. The platform is fully responsive and optimized for mobile devices."
+      },
+      "task": {
+        "title": "Task Management App",
+        "short": "Productivity tool for managing daily tasks",
+        "full": "An intuitive task management application with drag-and-drop functionality, priority levels, due dates, and team collaboration features. Built with React and features real-time updates using WebSockets."
+      },
+      "weather": {
+        "title": "Weather Dashboard",
+        "short": "Real-time weather forecast application",
+        "full": "A beautiful weather dashboard that displays current weather conditions, 7-day forecasts, and interactive weather maps. Integrates with OpenWeather API and features location-based weather detection."
+      },
+      "analytics": {
+        "title": "Data Analytics Tool",
+        "short": "Python-based data visualization platform",
+        "full": "A comprehensive data analytics platform built with Python and Django. Features include data import/export, statistical analysis, interactive charts and graphs, and customizable dashboards for business intelligence."
+      },
+      "portfolioSite": {
+        "title": "Portfolio Website",
+        "short": "Modern portfolio with animations",
+        "full": "A sleek and modern portfolio website showcasing web development projects. Features smooth animations, dark theme, responsive design, and optimized performance. Built with Vue.js and modern CSS techniques."
+      },
+      "social": {
+        "title": "Social Media Dashboard",
+        "short": "Analytics dashboard for social platforms",
+        "full": "A comprehensive social media analytics dashboard that aggregates data from multiple platforms. Features include engagement metrics, growth tracking, content scheduling, and detailed reporting with exportable charts."
+      }
+    }
+  },
+  "journey": {
+    "title": "My Journey",
+    "subtitle": "From my first steps in web development to becoming a professional front-end developer",
+    "intro": "My name is <strong>Mohammed</strong>, I am a front-end developer. My passion for web technologies began with HTML and CSS, then I mastered JavaScript and React and Vue.js, creating interactive websites and projects for my portfolio.",
+    "growthStages": "Growth Stages",
+    "challenges": "Challenges & Growth",
+    "challengesTitle": "Challenges",
+    "challengesDesc": "It was difficult to master JavaScript right away, but practice and projects helped me consolidate my knowledge. Every bug became a learning opportunity, and every challenge made me a stronger developer.",
+    "achievementsTitle": "Achievements",
+    "achievementsDesc": "Successfully completed multiple projects including responsive websites, interactive web applications with Vue.js and React, and backend development with Python and Django.",
+    "skillsTitle": "Skills & Expertise",
+    "milestones": {
+      "2022": {
+        "title": "First Website",
+        "desc": "Learned HTML and CSS, created my first web page. This was the beginning of my journey into web development, discovering the magic of bringing designs to life in a browser.",
+        "label": "First Project"
+      },
+      "2023": {
+        "title": "Learning JavaScript",
+        "desc": "After mastering JavaScript, I moved on to learning React and Vue.js. I understood how to create dynamic and interactive user experiences. I began building more complex applications and studied modern development practices",
+        "label": "JS Projects"
+      },
+      "2024": {
+        "title": "Portfolio Development",
+        "desc": "Created projects with responsive design and animations. Focused on creating beautiful, accessible, and performant web applications. Learned advanced CSS techniques and modern frameworks.",
+        "label": "Portfolio"
+      },
+      "2025": {
+        "title": "Complex Projects",
+        "desc": "Developed interactive websites with ChatBot, dark theme, and advanced features. Working on full-stack applications combining frontend excellence with backend power using Django and Python.",
+        "label": "Advanced Apps"
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind? Let's work together to create something amazing",
+    "connect": "Let's Connect",
+    "description": "Feel free to reach out for collaborations, questions, or just a friendly chat about web development.",
+    "email": "Email",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "nameRequired": "Name is required",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is this about?",
+    "subjectRequired": "Subject is required",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "messageRequired": "Message is required",
+    "messageMin": "Message must be at least 10 characters",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! I'll get back to you soon."
+  },
+  "footer": {
+    "tagline": "Building modern web experiences",
+    "navigation": "Navigation",
+    "technologies": "Technologies",
+    "connect": "Connect",
+    "copyright": "2025 Mohammed. All rights reserved.",
+    "madeWith": "Made with",
+    "using": "using Vue.js"
+  },
+  "chatbot": {
+    "title": "Chat with me",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "greeting": "Hi! How can I help you today?",
+    "offline": "I'm currently offline, but I'll respond to your email soon!"
+  }
+}

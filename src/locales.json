@@ -1,0 +1,20 @@
+{
+  "KG": {
+    "PORTFOLIO": "ПОРТФОЛИО",
+    "SERVICES": "КЫЗМАТТАР",
+    "PURPOSE": "МАКСАТ",
+    "JOURNEY": "САПАР"
+  },
+  "EN": {
+    "PORTFOLIO": "PORTFOLIO",
+    "SERVICES": "SERVICES",
+    "PURPOSE": "PURPOSE",
+    "JOURNEY": "JOURNEY"
+  },
+  "RU": {
+    "PORTFOLIO": "ПОРТФОЛИО",
+    "SERVICES": "УСЛУГИ",
+    "PURPOSE": "ЦЕЛЬ",
+    "JOURNEY": "ПУТЕШЕСТВИЕ"
+  }
+}
