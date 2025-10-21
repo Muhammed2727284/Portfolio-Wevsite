@@ -119,10 +119,10 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import { useLanguage } from '../composables/useLanguage';
+import { useTranslation } from '../composables/useTranslation';
 import { useScrollAnimation } from '../composables/useScrollAnimation';
 
-const { t } = useLanguage();
+const { t } = useTranslation();
 useScrollAnimation();
 
 interface Project {

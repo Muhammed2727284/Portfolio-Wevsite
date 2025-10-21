@@ -90,10 +90,10 @@
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import { useLanguage } from '../composables/useLanguage';
+import { useTranslation } from '../composables/useTranslation';
 import { usePageAnimations } from '../composables/usePageAnimations';
 
-const { t } = useLanguage();
+const { t } = useTranslation();
 usePageAnimations();
 
 const formData = ref({

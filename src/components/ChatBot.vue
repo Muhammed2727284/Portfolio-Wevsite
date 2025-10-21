@@ -75,9 +75,9 @@
 
 <script setup lang="ts">
 import { ref, nextTick, onMounted } from 'vue';
-import { useLanguage } from '../composables/useLanguage';
+import { useTranslation } from '../composables/useTranslation';
 
-const { t } = useLanguage();
+const { t } = useTranslation();
 
 const isOpen = ref(false);
 const newMessage = ref('');

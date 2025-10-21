@@ -154,7 +154,7 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import { useLanguage } from '../composables/useLanguage';
+import { useTranslation } from '../composables/useTranslation';
 import { useTypingEffect } from '../composables/useTypingEffect';
 import { useScrollAnimation } from '../composables/useScrollAnimation';
 import img1 from '../assets/img1.jpg'
@@ -162,7 +162,7 @@ import img2 from '../assets/img2.jpg'
 import img3 from '../assets/img3.jpg'
 
 
-const { t } = useLanguage();
+const { t } = useTranslation();
 useScrollAnimation();
 
 const typingTexts = computed(() => [

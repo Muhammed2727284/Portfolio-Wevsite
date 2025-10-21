@@ -73,9 +73,9 @@
 </template>
 
 <script setup lang="ts">
-import { useLanguage } from '../composables/useLanguage';
+import { useTranslation } from '../composables/useTranslation';
 
-const { t } = useLanguage();
+const { t } = useTranslation();
 </script>
 
 <style lang="scss" scoped src="./Footer.scss"></style>

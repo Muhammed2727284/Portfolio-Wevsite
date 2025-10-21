@@ -51,9 +51,9 @@
 
 <script setup lang="ts">
 import { ref, onMounted, onBeforeUnmount } from 'vue';
-import { useLanguage } from '../composables/useLanguage';
+import { useTranslation } from '../composables/useTranslation';
 
-const { currentLanguage, changeLanguage, t } = useLanguage();
+const { currentLanguage, changeLanguage, t } = useTranslation();
 
 const isHidden = ref(false);
 const flashColor = ref(false);
